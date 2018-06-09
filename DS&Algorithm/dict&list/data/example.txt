@@ -1,0 +1,26 @@
+awesome-object-proposals Awesome
+A curated list of object proposals resources for object detection.
+
+=======
+
+Table of Contents
+Introduction
+Tutorials
+Papers
+Objectness Scoring
+Similarity Grouping
+Supervised Learning
+Hybrid & Part-based
+RGB-D
+Re-ranking & Refinement
+Spatio-Temporal
+Low-Level Processing
+Evaluation
+Datasets
+Introduction
+[A Seismic Shift in Object Detection] (https://pdollar.wordpress.com/2013/12/10/a-seismic-shift-in-object-detection/) by Piotr Doll¨¢r.
+[Generating Object Proposals] (https://pdollar.wordpress.com/2013/12/22/generating-object-proposals/) by Piotr Doll¨¢r.
+Tutorials
+[ICCV 2015 Tutorial on Tools for Efficient Object Detection] (http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
+Jan Hosang, Region Proposals.
+Papers
